@@ -79,3 +79,4 @@ set shiftwidth=4
 set showcmd
 set incsearch
 set cursorline
+set background=dark
